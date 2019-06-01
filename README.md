@@ -1,32 +1,4 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
 ### Zadatak
 
 Potrebno je napraviti naslovnu stranu Hacker Newsa. Screenshot dizajna je u prilogu.
@@ -64,6 +36,11 @@ Na šta ne treba gubiti vreme:
 Webpack config u ovom slučaju uopšte nije bitan, nema potrebe praviti savršen setup za aplikaciju
 Redux, možeš ga koristiti ako želiš, ali i ako ga izostaviš nije od ključnog značaja za test
 
+### Starting the application
+- Make sure that you're in root folder,
+- Do npm install so all dependencies are installed,
+- Run: npm start
+
 ### Solution
 
 - Solution is created by using React and it was done in 11h +-.
@@ -82,10 +59,14 @@ Redux, možeš ga koristiti ako želiš, ali i ako ga izostaviš nije od ključn
 
 Sources used:
 
--https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects -https://getbootstrap.com/docs/4.0/getting-started/introduction/ -https://hackernews.api-docs.io/v0/live-data/new-and-top-stories -https://medium.com/@farid12ansari7/make-a-snackbar-or-pop-up-notification-for-a-react-web-app-fd246dd1b9f0 -https://codeburst.io/on-connecting-my-app-to-the-hackernews-firebase-api-e7b9e1ccec29
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects 
+- https://getbootstrap.com/docs/4.0/getting-started/introduction/ 
+- https://hackernews.api-docs.io/v0/live-data/new-and-top-stories 
+- https://medium.com/@farid12ansari7/make-a-snackbar-or-pop-up-notification-for-a-react-web-app-fd246dd1b9f0 
+- https://codeburst.io/on-connecting-my-app-to-the-hackernews-firebase-api-e7b9e1ccec29
 
 What can be improved in application
 
--Redux could be used for controlling state in app.
--Tests should be written,
--Add some new feature like searching for certain post, or user.
+- Redux could be used for controlling state in app.
+- Tests should be written,
+- Add some new feature like searching for certain post, or user.
