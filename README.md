@@ -67,6 +67,6 @@ Sources used:
 
 What can be improved in application
 
--Redux could be used for controlling state in app.
--Tests should be written,
--Add some new feature like searching for certain post, or user.
+- Redux could be used for controlling state in app.
+- Tests should be written,
+- Add some new feature like searching for certain post, or user.
