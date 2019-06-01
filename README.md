@@ -59,11 +59,11 @@ Redux, možeš ga koristiti ako želiš, ali i ako ga izostaviš nije od ključn
 
 Sources used:
 
--https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects 
--https://getbootstrap.com/docs/4.0/getting-started/introduction/ 
--https://hackernews.api-docs.io/v0/live-data/new-and-top-stories 
--https://medium.com/@farid12ansari7/make-a-snackbar-or-pop-up-notification-for-a-react-web-app-fd246dd1b9f0 
--https://codeburst.io/on-connecting-my-app-to-the-hackernews-firebase-api-e7b9e1ccec29
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects 
+- https://getbootstrap.com/docs/4.0/getting-started/introduction/ 
+- https://hackernews.api-docs.io/v0/live-data/new-and-top-stories 
+- https://medium.com/@farid12ansari7/make-a-snackbar-or-pop-up-notification-for-a-react-web-app-fd246dd1b9f0 
+- https://codeburst.io/on-connecting-my-app-to-the-hackernews-firebase-api-e7b9e1ccec29
 
 What can be improved in application
 
